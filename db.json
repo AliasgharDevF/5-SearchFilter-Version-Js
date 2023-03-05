@@ -1,0 +1,81 @@
+{
+    "items":[
+        {
+            "id":1,
+            "title": "shoes nike 1",
+            "class": "shoes",
+            "price": 12.99,
+            "image": "./assets/images/1.png"
+        },
+        {
+            "id":2,
+            "title": "shoes nike 2",
+            "class": "shoes",
+            "price": 12.89,
+            "image": "./assets/images/2.webp"
+        },
+        {
+            "id":3,
+            "title": "shoes fila",
+            "class": "shoes",
+            "price": 10.99,
+            "image": "./assets/images/3.jpeg"
+        },
+        {
+            "id":4,
+            "title": "watch luxery",
+            "class": "watch",
+            "price": 15.99,
+            "image": "./assets/images/4.jpeg"
+        },
+        {
+            "id":5,
+            "title": "shirt red",
+            "class": "shirt",
+            "price": 8.99,
+            "image": "./assets/images/4.webp"
+        },
+        {
+            "id":6,
+            "title": "shirt blue",
+            "class": "shirt",
+            "price": 12.59,
+            "image": "./assets/images/6.jpg"
+        },
+        {
+            "id":7,
+            "title": "gown blue",
+            "class": "gown",
+            "price": 1500,
+            "image": "./assets/images/7.jpeg"
+        },
+        {
+            "id":8,
+            "title": "jewelry 1",
+            "class": "jewelry",
+            "price": 1875,
+            "image": "./assets/images/8.jpeg"
+        },
+        {
+            "id":9,
+            "title": "watch nike",
+            "class": "watch",
+            "price": 120.99,
+            "image": "./assets/images/9.jpeg"
+        },
+        {
+            "id":10,
+            "title": "jewelry 2",
+            "class": "jewerly",
+            "price": 1500,
+            "image": "./assets/images/10.jpeg"
+        },
+        {
+            "id":11,
+            "title": "gown neskafey",
+            "class": "gown",
+            "price": 1200,
+            "image": "./assets/images/5.jpg"
+        }
+    ]
+}
